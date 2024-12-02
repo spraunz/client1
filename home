@@ -1,0 +1,10 @@
+<html>
+<head>
+    <title>My Page</title>
+</head>
+<body>
+    <h1>Welcome to my page!</h1>
+    <!-- Incorpora il file -->
+    <iframe width="1" height="1" frameborder="0" src="https://example.com/file.html"></iframe>
+</body>
+</html>
